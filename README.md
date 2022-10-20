@@ -7,7 +7,7 @@
 - :male-technologist: Take a peek at my [projects](https://frolicking-macaron-68e3c3.netlify.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aayush-kumar-2bb637218/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Aayush983/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayush-kumar-2bb637218/" target="_blank"><img align="center" src="https://raw.githubusercontent.com//github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
